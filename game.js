@@ -1,3 +1,5 @@
+// learning Javascript
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 var userClickedPattern = [];
